@@ -1,2 +1,2 @@
 # Insta
-A simple instagram website
+A simple instagram webapp
